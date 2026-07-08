@@ -1,2 +1,2 @@
-# mini_project_powebi
+# mini_project_powerbi
 coffee shop sales
